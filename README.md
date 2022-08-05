@@ -1,15 +1,5 @@
 # Detecting Diabetes - KNN
 
-## K Nearest Neighbors(KNN)
-![KNN](assets/knn.png)
-
-K-Nearest Neighbors is one of the simplest Machine Learning algorithms based on **Supervised Learning** technique.
-K-NN algorithm assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories. K-NN algorithm stores all the available data and classifies a new data point based on the similarity. This means when new data appears then it can be easily classified into a well suite category by using K- NN algorithm.
-K-NN algorithm can be used for Regression as well as for Classification but mostly it is used for the Classification problems.
-
-You can find a more formal definition on [Wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm).
-
-
 ## About Dataset - 
 
 ### Dataset Description
