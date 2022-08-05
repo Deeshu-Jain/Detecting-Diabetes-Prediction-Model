@@ -64,8 +64,6 @@ plt.ylabel('Error Rate')
 ## Screenshots
 Includes Screenshots of Some Visualization Figures, Classification Report
 
-![Demo1](assets/ss1.png)
-
 
 ![Demo2](assets/ss2.png)
 
